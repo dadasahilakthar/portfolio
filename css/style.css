@@ -174,7 +174,7 @@
   }
 }
 
-/* media queries for ipad pro view */
+/* media queries for pc view */
 @media (min-device-width:781px) and (max-device-width:1200px) {
   .main {
     flex-wrap: wrap;
